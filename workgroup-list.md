@@ -10,6 +10,10 @@ Each group should find people to take on each position listed in [workgroup-posi
 
 This meeting exists to discuss all topics regarding expanding the block size.
 
+## [Colored Coins](wg-colored-coins/workgroup.md)
+
+Discussion related to colored coins on Bitcoin Cash.
+
 ## [Difficulty Adjustment Algorithm](wg-daa/workgroup.md)
 
 Workgroup for researching and discussing the latest technology for difficulty
